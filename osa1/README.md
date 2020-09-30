@@ -1,0 +1,1 @@
+Tästä hakemistosta löytyvät ensimmäisen osan tehtävät.
